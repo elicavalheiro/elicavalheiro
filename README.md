@@ -1,28 +1,30 @@
-<h1>Hello, I’m Eli! ✨
+# Hi there, I'm Eli! ✨
 
-<h2>About me</h2>
+I'm a Senior Frontend Developer with 8+ years of experience in tech, including 5 years building modern, user-focused web applications using React and Next.js.
 
-<p>🌱 &ensp; Front-end developer &ensp; | &ensp; 🕹️ &ensp; Gamer &ensp; | &ensp; ✏️  &ensp; Illustrator &ensp;
+💼 Most recently, I worked with a Canadian company (RFA Mortgages) leading frontend architecture, creating a design system from scratch, and modernizing the tech stack for performance and scalability.
 
-###### I love to create stuff :D
+🌱 I'm currently expanding my backend knowledge to transition into Fullstack development — while keeping my main focus on delivering fast, accessible, and high-quality frontend experiences.
 
-<h2>Techs and tools I like to work with</h2>
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_32x32.png">&ensp;
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_32x32.png">&ensp;
-  <img height="32" src="https://res.cloudinary.com/dg5pzm35l/image/upload/v1595622967/nodejs-plain_dmu8vj.svg"/>&ensp;
-  <img height="32" src="https://res.cloudinary.com/dg5pzm35l/image/upload/v1595623647/react-original_omi6z9.svg"/>&ensp;
-  <img height="32" src="https://res.cloudinary.com/dg5pzm35l/image/upload/v1595623071/vuejs-original_dz4rl6.svg"/>&ensp;
-  <img height="32" src="https://res.cloudinary.com/dg5pzm35l/image/upload/v1595622944/sass-original_zvr2lz.svg"/>
-</p>
+## 🚀 Technologies I work with:
 
-<h2> Some stats - <strike>(why not?)</strike></h2>
+**Frontend:**  
+React • Next.js • Typescript • TailwindCSS • Shadcn UI • Radix Primitives • React Hook Form • Zod
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicavalheiro&theme=dracula&hide_border=true&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elicavalheiro&show_icons=true&theme=dracula&hide_border=true&hide=issues&count_private=true&line_height=24" />
-</a>
+**Architecture & Tooling:**  
+NX • Monorepo • Storybook • Micro-frontend • Bit Components (Bit.dev) • Jest • React Testing Library
 
-###### ps.: instead of reading "Typescript" you can read React (that's because all my React projects is been written with Typescript lately :D)
+**Learning/Expanding into:**  
+Node.js • Express • Go • MySQL • PostgreSQL • Fullstack APIs • Microservices • Cypress • End-to-end Testing • Unit Testing
+
+## 🌍 Languages & Collaboration:
+- Fluent in English 🇺🇸🇨🇦
+- Native in Portuguese 🇧🇷
+- Strong communicator in cross-functional and remote teams
+
+## 📬 Let's connect:
+
+- [LinkedIn](https://www.linkedin.com/in/elicavalheiro)
+- [GitHub Projects](https://github.com/elicavalheiro?tab=repositories)
+
+Thanks for stopping by! ✨
